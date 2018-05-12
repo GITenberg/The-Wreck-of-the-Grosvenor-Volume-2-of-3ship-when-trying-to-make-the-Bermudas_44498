@@ -1,0 +1,31 @@
+_repo: The-Wreck-of-the-Grosvenor-Volume-2-of-3ship-when-trying-to-make-the-Bermudas_44498
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44498-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Russell, William Clark
+    alias: Russell, W. Clark (William Clark)
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '8948'
+    url: http://www.gutenberg.org/2009/agents/8948
+    wikipedia: http://en.wikipedia.org/wiki/William_Clark_Russell
+description: ''
+gutenberg_issued: '2013-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mutiny -- Fiction'
+- !lcsh 'Sea stories'
+- !lcc 'PR'
+- !lcsh 'Shipwrecks -- Fiction'
+title: "The Wreck of the Grosvenor, Volume 2 of 3\r\nAn account of the mutiny of the\
+  \ crew and the loss of the ship when trying to make the Bermudas"
+url: http://www.gutenberg.org/ebooks/44498
